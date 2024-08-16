@@ -1,0 +1,1 @@
+{"name":"Local: 2712","url":"c:\\Users\\qwetj\\OneDrive\\문서\\C++ PS\\2712.cpp","tests":[{"id":1723745611081,"input":"5\n1 kg\n2 l\n7 lb\n3.5 g\n0 l","output":"2.2046 lb\n0.5284 g\n3.1752 kg\n13.2489 l\n0.0000 g"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\qwetj\\OneDrive\\문서\\C++ PS\\2712.cpp","group":"local","local":true}
